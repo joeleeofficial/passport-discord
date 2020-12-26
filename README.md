@@ -1,10 +1,6 @@
 # passport-discord
 
-**Notice**: I'm no longer too active with the Discord API, and only tinker around occasionally. So, if there is anybody who would like to be more active in maintaining, I'm happy to link to your fork as the new solution to use or give project permissions on this repo.
 
-Passport strategy for authentication with [Discord](http://discordapp.com) through the OAuth 2.0 API.
-
-Before using this strategy, it is strongly recommended that you read through the official docs page [here](https://discord.com/developers/docs/topics/oauth2), especially about the scopes and understand how the auth works.
 
 ## Usage
 `npm install passport-discord --save`
